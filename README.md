@@ -2,7 +2,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-%40Miliseff-black?style=flat&logo=github)](https://github.com/Miliseff)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%40Miliseff-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/milagros-seffino)
-[![repository](https://milagros-seffino.vercel.app/) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-milagros--seffino.vercel.app-black?style=flat&logo=vercel)](https://milagros-seffino.vercel.app/)
 
 ## About Me
 
