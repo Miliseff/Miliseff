@@ -2,12 +2,13 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-%40Miliseff-black?style=flat&logo=github)](https://github.com/Miliseff)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%40Miliseff-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/milagros-seffino)
+[![repository](https://milagros-seffino.vercel.app/) 
 
 ## About Me
 
-💻 **Software Developer** passionate about **technology** and **continuous learning**.  
-🔍 Interested in **Machine Learning**, **Artificial Intelligence**, and **Big Data**.  
-🎓 Advanced studies in programming.
+**Software Developer** passionate about **technology** and **continuous learning**.  
+Interested in **Machine Learning**, **Artificial Intelligence**, and **Big Data**.  
+Advanced studies in programming.
 
 ## Skills
 
@@ -45,4 +46,4 @@ Always open to collaborate on exciting projects!
 
  Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/Miliseff) or follow me on [GitHub](https://github.com/Miliseff)!
 
-If you like my work, please consider giving my repositories a star! 🌟
+If you like my work, please consider giving my repositories a star! 
